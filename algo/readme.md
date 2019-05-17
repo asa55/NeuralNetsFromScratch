@@ -1,8 +1,8 @@
-I did this for class and never really considered sharing it with the world.
+# I did this for class and never really considered sharing it with the world.
 
 The project instructions were as follows (literally no additional resources - this was very open-ended):
 _____________________________________________________________________________
-Neural Network for Handwritten Character Recognition
+## Neural Network for Handwritten Character Recognition
 
  
 
@@ -10,7 +10,7 @@ We will implement an Artificial Neural Network, which is trained using the back 
 
  
 
-Data can be downloaded from:
+## Data can be downloaded from:
 
 http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/EnglishHnd.tgz
 
@@ -34,7 +34,7 @@ Please use the image data.
 ___________________________________________________________________________
 
 
-I have my final report which details the theory in depth - will link it here someday (especially if somebody asks for it)
+## I have my final report which details the theory in depth - will link it here someday (especially if somebody asks for it)
 
 This code uses handwritten digits pulled from a popular MNIST database. I didn't copy the data to GitHub (that's poor form),
 but you can find the link in the instructions.
