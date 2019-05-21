@@ -34,7 +34,7 @@ Please use the image data.
 ___________________________________________________________________________
 
 
-## See the link in the `ReadMe.md` (in the parent folder of `algo/`) for a link to a detailed report and all of my experimental data I shared in DropBox. You can start your simulation where I left off if you download these materials. 
+## See the link in the `ReadMe.md` (in the parent folder of `algo/`) for a link to a detailed report and more. You can start your simulation where I left off if you download these materials. 
 
 This code uses handwritten digits pulled from a popular MNIST database. I didn't copy the data to GitHub (that's poor form),
 but you can find the link in the instructions (or grab a copy of them from my Dropbox).
