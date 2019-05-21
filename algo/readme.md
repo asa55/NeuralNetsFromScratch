@@ -34,20 +34,14 @@ Please use the image data.
 ___________________________________________________________________________
 
 
-## I have my final report which details the theory in depth - will link it here someday (especially if somebody asks for it)
+## See the link in the `ReadMe.md` (in the parent folder of `algo/`) for a link to a detailed report and all of my experimental data I shared in DropBox. You can start your simulation where I left off if you download these materials. 
 
 This code uses handwritten digits pulled from a popular MNIST database. I didn't copy the data to GitHub (that's poor form),
-but you can find the link in the instructions (or grab a copy of them from my Dropbox - more on that in the main ReadMe.md).
+but you can find the link in the instructions (or grab a copy of them from my Dropbox).
 
-If you decide to check out this code, you'll need Matlab (I developed on 2018a so I can't be sure this is compatible with earlier versions)
-
-I believe I stayed away from any tools outside of the core library - I haven't looked through this thoroughly since I wrote it but
-I'll take it as a TODO item to post all the min requirements.
+If you decide to check out this code, you'll need Matlab (I developed on 2018a so I can't guarantee this is compatible with earlier versions)
 
 Assuming you have 2018a or later already, you'll need to grab this code, pull it into a folder on your Matlab path, then add
-the MNIST database images to a subdirectory of the algo folder \EnglishHnd\English\Hnd\Img (some of the path comes with it when
-you download the MNIST images).
+the MNIST database images to a subdirectory of the `algo/` folder (e.g. `algo/EnglishHnd/English/Hnd/Img/...`)
 
-Alternatively, I posted all the data-heavy materials on my Dropbox, so you can get everything you need from there. Check out the ReadMe outside of this $algos/$ folder - I think it will be much easier than pulling the resources yourself from across the internet, and it will let you follow the report (also available in my Dropbox) word for word.
-
-
+As I mentioned, you can find extensive support for this code in my DropBox. Go up a folder level - there is a link in the main `ReadMe.md` file for this repo.
